@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Forge</title>
+    <link>https://github.com/nuvoralabs/nuvora-apps/releases</link>
+    <item>
+      <title>Forge 0.1.2</title>
+      <pubDate>Thu, 27 Aug 2026 22:51:18 +0000</pubDate>
+      <link>https://github.com/nuvoralabs/nuvora-apps/releases/tag/forge-v0.1.2</link>
+      <sparkle:version>0.1.2</sparkle:version>
+      <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/nuvoralabs/nuvora-apps/releases/download/forge-v0.1.2/Forge-0.1.2.dmg" sparkle:edSignature="7Pxoc/Pi1AlXavd4DvV5Z4JxoFWOUVvk0CM3q3+PU7BvMwS/queGFNkKPxcNqav21i0k4LqTypfUBXsrMnq2Cw==" length="11061226" type="application/octet-stream"/>
+    </item>
+  </channel>
+</rss>
