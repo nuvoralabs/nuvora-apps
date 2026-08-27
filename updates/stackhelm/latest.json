@@ -1,0 +1,19 @@
+{
+  "version": "0.1.1",
+  "pub_date": "2026-08-27T23:00:58Z",
+  "notes": "StackHelm 0.1.1",
+  "platforms": {
+    "darwin-aarch64": {
+      "url": "https://github.com/nuvoralabs/nuvora-apps/releases/download/stackhelm-v0.1.1/StackHelm.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSWQ1cEZKdVZGNldidzhMNWhHZkN2RHU5RGNVcENPQnAzSlZPN0pTU3lrdTY1amw5TzRsT2pvS0ttakxodkNucWhSZXlqSHE5elVBUlpGTDZkYWdMYXhZQ2swN3E0Y0FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3ODcxNTE2CWZpbGU6U3RhY2tIZWxtLmFwcC50YXIuZ3oKb2JZTVY2TklxaVhmVlRtZDY3RkNDQkFQZTV4ZWxndG4vTFBLRW4zTXJTeXplaS9FL0lHbUxpd0VSckNYYm5vS083OGpKTjNuR3NTUHFyeGY0dExLQnc9PQo="
+    },
+    "darwin-x86_64": {
+      "url": "https://github.com/nuvoralabs/nuvora-apps/releases/download/stackhelm-v0.1.1/StackHelm.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSWQ1cEZKdVZGNldidzhMNWhHZkN2RHU5RGNVcENPQnAzSlZPN0pTU3lrdTY1amw5TzRsT2pvS0ttakxodkNucWhSZXlqSHE5elVBUlpGTDZkYWdMYXhZQ2swN3E0Y0FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3ODcxNTE2CWZpbGU6U3RhY2tIZWxtLmFwcC50YXIuZ3oKb2JZTVY2TklxaVhmVlRtZDY3RkNDQkFQZTV4ZWxndG4vTFBLRW4zTXJTeXplaS9FL0lHbUxpd0VSckNYYm5vS083OGpKTjNuR3NTUHFyeGY0dExLQnc9PQo="
+    },
+    "linux-x86_64": {
+      "url": "https://github.com/nuvoralabs/nuvora-apps/releases/download/stackhelm-v0.1.1/StackHelm_0.1.1_amd64.AppImage",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSWQ1cEZKdVZGNldxbnN5RHE3RWtsMWZ0TE9NMmx0dHlDK3BmT3RnS2ROczVmdkhjZUV4UVI4Y2NJZTU2NGdLT1paRW9RUFZwamJ2czlReFJXMmhDcWpudjZiVzkySWdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3ODcxNjE0CWZpbGU6U3RhY2tIZWxtXzAuMS4xX2FtZDY0LkFwcEltYWdlCklWUE93Ni8ybUpWYzYwTlcvZ04xazRhMCszcnBUNWYrMVgrSjIwczBubGFMaTkwMm1lVEY2UEFOTUU3MUdGM2ZrcEJmSEkzV2NzTGNDaGlqT1BsV0N3PT0K"
+    }
+  }
+}
