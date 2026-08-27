@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Weave</title>
+    <link>https://github.com/nuvoralabs/nuvora-apps/releases</link>
+    <item>
+      <title>Weave 0.1.1</title>
+      <pubDate>Thu, 27 Aug 2026 22:52:56 +0000</pubDate>
+      <link>https://github.com/nuvoralabs/nuvora-apps/releases/tag/weave-v0.1.1</link>
+      <sparkle:version>0.1.1</sparkle:version>
+      <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/nuvoralabs/nuvora-apps/releases/download/weave-v0.1.1/Weave-0.1.1.dmg" sparkle:edSignature="Xr2kRlOTgzFH/DVMbOhDnFUq/4kGShd2C5JXQqmXapAyCNOxsU7ZIrlbvVsC2A01dmXdgrCHklXVHDQfHz5XCw==" length="14836459" type="application/octet-stream"/>
+    </item>
+  </channel>
+</rss>
