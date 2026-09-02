@@ -4,13 +4,13 @@
     <title>Weave</title>
     <link>https://github.com/nuvoralabs/nuvora-apps/releases</link>
     <item>
-      <title>Weave 0.1.1</title>
-      <pubDate>Thu, 27 Aug 2026 22:52:56 +0000</pubDate>
-      <link>https://github.com/nuvoralabs/nuvora-apps/releases/tag/weave-v0.1.1</link>
-      <sparkle:version>0.1.1</sparkle:version>
-      <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+      <title>Weave 0.1.2</title>
+      <pubDate>Wed, 02 Sep 2026 12:10:27 +0000</pubDate>
+      <link>https://github.com/nuvoralabs/nuvora-apps/releases/tag/weave-v0.1.2</link>
+      <sparkle:version>0.1.2</sparkle:version>
+      <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/nuvoralabs/nuvora-apps/releases/download/weave-v0.1.1/Weave-0.1.1.dmg" sparkle:edSignature="Xr2kRlOTgzFH/DVMbOhDnFUq/4kGShd2C5JXQqmXapAyCNOxsU7ZIrlbvVsC2A01dmXdgrCHklXVHDQfHz5XCw==" length="14836459" type="application/octet-stream"/>
+      <enclosure url="https://github.com/nuvoralabs/nuvora-apps/releases/download/weave-v0.1.2/Weave-0.1.2.dmg" sparkle:edSignature="elLXZFAwv57sTOs39LYTvQn6boaeHTdfZYLX2DnT4AiV1AN3zSdfnebbwHeYpPz4t/xxb4eIq6cATJle3OzqBg==" length="14907774" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
