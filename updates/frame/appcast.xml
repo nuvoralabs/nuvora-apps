@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>Nuvora Frame</title>
+    <link>https://github.com/nuvoralabs/nuvora-apps/releases</link>
+    <item>
+      <title>Nuvora Frame 0.3.0</title>
+      <pubDate>Sun, 06 Sep 2026 21:44:16 +0000</pubDate>
+      <link>https://github.com/nuvoralabs/nuvora-apps/releases/tag/frame-v0.3.0</link>
+      <sparkle:version>0.3.0</sparkle:version>
+      <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>Nuvora Frame for macOS 14 or later. Universal: Apple Silicon and Intel. Signed and notarized.</description>
+      <enclosure url="https://github.com/nuvoralabs/nuvora-apps/releases/download/frame-v0.3.0/Nuvora-Frame-0.3.0-universal.dmg" sparkle:edSignature="Mr8TSIvBceNkoP9juZ6E339asW8M5peNytKTn1YZ6pYgyEMZFKRl67Hr2W4gczYzRsQk7xrgadPgCKEdXadABw==" length="6274892" type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
