@@ -4,14 +4,14 @@
     <title>Frame</title>
     <link>https://github.com/nuvoralabs/nuvora-apps/releases</link>
     <item>
-      <title>Frame 0.3.2</title>
-      <pubDate>Mon, 07 Sep 2026 07:31:46 +0000</pubDate>
-      <link>https://github.com/nuvoralabs/nuvora-apps/releases/tag/frame-v0.3.2</link>
-      <sparkle:version>0.3.2</sparkle:version>
-      <sparkle:shortVersionString>0.3.2</sparkle:shortVersionString>
+      <title>Frame 0.4.0</title>
+      <pubDate>Mon, 07 Sep 2026 08:39:08 +0000</pubDate>
+      <link>https://github.com/nuvoralabs/nuvora-apps/releases/tag/frame-v0.4.0</link>
+      <sparkle:version>0.4.0</sparkle:version>
+      <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <description>Frame for macOS 14 or later. Universal: Apple Silicon and Intel. Signed and notarized.</description>
-      <enclosure url="https://github.com/nuvoralabs/nuvora-apps/releases/download/frame-v0.3.2/Frame-0.3.2-universal.dmg" sparkle:edSignature="FfG04/tbV6nPGi7pYvk5vWfidSaOVgJbojpba9M72CJKPjjoI4i+4G2Dkf89M6P/KG26iMXJbpie5KxYBablBw==" length="6352345" type="application/octet-stream" />
+      <enclosure url="https://github.com/nuvoralabs/nuvora-apps/releases/download/frame-v0.4.0/Frame-0.4.0-universal.dmg" sparkle:edSignature="8JXIfmKTp2oduH+OfurB0f8/qJ0kwVWcDPmE+xsVkC/ScwogZu5f/lf5SsUB2pbfsxMEc2dagRvtHMpLpQUKBA==" length="6358279" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
