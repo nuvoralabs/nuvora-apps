@@ -4,13 +4,13 @@
     <title>Forge</title>
     <link>https://github.com/nuvoralabs/nuvora-apps/releases</link>
     <item>
-      <title>Forge 0.2.2</title>
-      <pubDate>Wed, 23 Sep 2026 11:34:37 +0000</pubDate>
-      <link>https://github.com/nuvoralabs/nuvora-apps/releases/tag/forge-v0.2.2</link>
-      <sparkle:version>0.2.2</sparkle:version>
-      <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
+      <title>Forge 0.2.3</title>
+      <pubDate>Fri, 13 Nov 2026 08:04:29 +0000</pubDate>
+      <link>https://github.com/nuvoralabs/nuvora-apps/releases/tag/forge-v0.2.3</link>
+      <sparkle:version>0.2.3</sparkle:version>
+      <sparkle:shortVersionString>0.2.3</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/nuvoralabs/nuvora-apps/releases/download/forge-v0.2.2/Forge-0.2.2.dmg" sparkle:edSignature="vuslJ3u1ew6OHfsw7nAOiU5fkCkTc4UV+5DGbeCVtjG0EXgTdcTC6bUIEI141acLxevUG1IbbXqyBN++QRWFDA==" length="11461141" type="application/octet-stream"/>
+      <enclosure url="https://github.com/nuvoralabs/nuvora-apps/releases/download/forge-v0.2.3/Forge-0.2.3.dmg" sparkle:edSignature="FQu2o1lsRldsT3rFGVsS7fWSxA3TFBFLEkS3aE58G29SuhQPeYX+sjmb6fmyttBCaDAAFnTqgbGGX1ZJruEcBw==" length="11560269" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
